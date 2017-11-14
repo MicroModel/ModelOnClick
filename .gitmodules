@@ -1,0 +1,3 @@
+[submodule "MicroModel"]
+	path = MicroModel
+	url = https://github.com/MicroModel/MicroModel.git
